@@ -2,19 +2,20 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+What is the problem? And where is the challenge?  
+The Problem was to move the spaceship based on the directions provided as the input string. Then at the end, we have provide the final co ordinates of the spaceship.
 
 ## Description
-TODO - How have you solved the problem?
+How have you solved the problem?  
+Initialized the X, Y and Direction. Based on the input string and the current direction, the to-be direction was determined and then based on that the co-ordinates were moved.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+TODO - How to install your project? npm install? make? make re?  
+NA
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+How does it work?  
+NA
 
 ### The Core Team
 
